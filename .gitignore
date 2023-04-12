@@ -8,6 +8,8 @@
 .env.backup
 .env.production
 .phpunit.result.cache
+.jsonfig.json
+.eslintrc.js
 Homestead.json
 Homestead.yaml
 auth.json
