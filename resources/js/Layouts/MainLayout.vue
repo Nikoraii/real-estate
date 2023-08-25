@@ -47,7 +47,7 @@
     <footer class="w-full">
       <div class="w-full px-8 text-center text-gray-500">
         <hr class="border-gray-500" />
-        <div class="my-2">Made with &#10084; by <a class="text-indigo-600 dark:text-indigo-500 hover:underline" href="https://github.com/Nikoraii" target="_blank">Nikoraii</a></div>
+        <div class="my-2">Made with &#10084; by <a class="text-indigo-600 dark:text-indigo-500 hover:underline" href="https://github.com/Nikoraii/real-estate" target="_blank">Nikoraii</a></div>
       </div>
     </footer>
   </div>
