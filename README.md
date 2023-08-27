@@ -2,7 +2,7 @@
 Install and run [Docker](https://www.docker.com/)
 
 * Clone this repo ` git clone <repo> <project-name> `
-* Rename `.env.example` to `.env` - 
+* Rename `.env.example` to `.env` - Feel free to make needed changes here (e.g. DB name)
 * Navigate to project directory
 * Instal dependencies ` nmp install ` & ` composer install `
 
