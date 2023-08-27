@@ -1,19 +1,20 @@
-#### Pre pokretanja:
-Instalirati i pokrenuti [Docker](https://www.docker.com/)
+#### Prerequisites 
+Install and run [Docker](https://www.docker.com/)
 
-#### Pokrenuti komadne u 3 različita prozora:
-1.
-```
-docker compose up
-```
-2.
-```
-npm run dev
-```
-3.
-```
-php artisan serve
-```
+* Clone this repo ` git clone <repo> <project-name> `
+* Rename `.env.example` to `.env` - 
+* Navigate to project directory
+* Instal dependencies ` nmp install ` & ` composer install `
+
+#### Running the project
+Run in 4 seperate windows:
+
+1. ` docker compose up `
+2. ` npm run dev `
+3. ` php artisan serve `
+4. ` php artisan migrate --seed ` - DB does not exist. You will be asked to create a new one, choose `Yes`.
+
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
